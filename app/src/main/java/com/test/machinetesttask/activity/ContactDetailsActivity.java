@@ -18,6 +18,7 @@ import com.test.machinetesttask.R;
 import com.test.machinetesttask.model.ContactsListModel;
 import com.test.machinetesttask.viewmodel.ContactDetailsViewModel;
 
+@SuppressWarnings("ALL")
 public class ContactDetailsActivity extends AppCompatActivity {
 
     ContactsListModel.Datum data;

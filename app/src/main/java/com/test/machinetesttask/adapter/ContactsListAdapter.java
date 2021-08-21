@@ -20,6 +20,7 @@ import com.test.machinetesttask.model.ContactsListModel;
 
 import java.util.List;
 
+@SuppressWarnings("ALL")
 public class ContactsListAdapter extends RecyclerView.Adapter {
 
     private List<ContactsListModel.Datum> list;

@@ -23,4 +23,10 @@
     <string name="invalid_id">Invalid ID</string>
     <string name="edit"><![CDATA[Edit & Save]]></string>
     <string name="swipe_to_edit">Swipe To Edit</string>
+    <string name="pinLocation">Pin \nLocation</string>
+    <string name="captureVideo">Capture \nVideo</string>
+    <string name="captureImage">Capture \nImage</string>
+    <string name="add">add</string>
+    <string name="add_msg">Enter values and save to add a new entry!</string>
+    <string name="edit_msg">Change the values and save!</string>
 </resources>

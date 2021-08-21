@@ -31,6 +31,7 @@ public class Users {
         @ColumnInfo(name = "avatar")
         public String avatar;
     }
+
     @Dao
     public interface UserDao {
         @Query("SELECT * FROM user")
