@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Machine Test Task</string>
+    <string name="profileimage">profileImage</string>
+    <string name="name">Name:</string>
+    <string name="designation">Designation:</string>
+    <string name="dob">DOB:</string>
+    <string name="address">Address:</string>
+    <string name="mobile">Mobile Number:</string>
+    <string name="email">E-mail:</string>
+    <string name="language">Language:</string>
+    <string name="technical">Technical Team:</string>
+    <string name="search">Search</string>
+    <string name="sww">No internet connection…Fetching data from local DB</string>
+    <string name="nrf">No result found!</string>
+    <string name="id">ID:</string>
+    <string name="save">Save</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="enter">Enter</string>
+    <string name="invalid_first_name">Invalid First Name</string>
+    <string name="invalid_last_name">Invalid Last Name</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_id">Invalid ID</string>
+    <string name="edit"><![CDATA[Edit & Save]]></string>
+    <string name="swipe_to_edit">Swipe To Edit</string>
+</resources>
